@@ -1,8 +1,12 @@
+
+import java.util.*;
 class pos
 {
   public static void main(String args[])
   {
-    int a=3;
+     int a;
+    Scanner a=new Scanner(System.in);
+   
     if(a>0)
     {
       System.out.println("positive");
